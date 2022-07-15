@@ -1,0 +1,21 @@
+numeronesoft-backgrounds-cornetti (1.0-3) stable; urgency=low
+
+  * Cambio di licenza
+
+ --  Giulio Sorrentino <gsorre84@gmail.com>  Mon, 11 Jul 2022 08:36:38 +0200
+
+numeronesoft-backgrounds-cornetti (1.0-2) stable; urgency=low
+
+  * Aggiunta una nuova immagine
+
+ --  Giulio Sorrentino <gsorre84@gmail.com>  Mon, 11 Jul 2022 08:36:38 +0200
+numeronesoft-backgrounds-cornetti (1.0-1) stable; urgency=low
+
+  * Tutte le immagini vengono redirette a /usr/share/images/numeronesoft-backgrounds-cornetti
+
+ --  Giulio Sorrentino <gsorre84@gmail.com>  Mon, 11 Jul 2022 08:36:38 +0200
+numeronesoft-backgrounds-cornetti (1.0) stable; urgency=low
+
+  * Initial release. (Closes: #00000)
+
+ --  Giulio Sorrentino <gsorre84@gmail.com>  Mon, 11 Jul 2022 08:36:38 +0200
